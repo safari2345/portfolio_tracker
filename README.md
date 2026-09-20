@@ -11,7 +11,6 @@ Features:
   - Sharpe ratio
 - Benchmarks portfolio performance against the S&P 500 (`^GSPC`)
 - Visualizes cumulative growth of $1 invested in the portfolio vs. the S&P 500
-- Displays the most recent raw price data in an interactive table
 
 ## Demo Portfolio
 
