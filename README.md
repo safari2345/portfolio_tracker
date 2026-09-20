@@ -78,7 +78,7 @@ You can customize the app by editing the following variables at the top of the s
 
 - Requires an internet connection to fetch live data from Yahoo Finance.
 - The Sharpe ratio calculation assumes a risk-free rate of 0%. It is highly recommended to change it to a level like 3.5% as an approximation of a 3 month US treaury bill. The sharpe ratio was left at 0%, due to simplification, since the project's focus was benchmarking and portfolio construction and not precise risk-return measurement.
-- It assumes the stocks were purchased in the same time period, without 
+- It assumes the stocks were purchased in the same time period, without the option of rebalancing or adding additional tickers.
 
 
 ## License
