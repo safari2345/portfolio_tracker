@@ -83,4 +83,4 @@ You can customize the app by editing the following variables at the top of the s
 
 ## License
 
-This project is provided as-is for educational and personal use. Feel free to fork and modify it for your own portfolio tracking needs.
+This project was made for educational and personal purposes. Feel free to use and modify this project as you please.
